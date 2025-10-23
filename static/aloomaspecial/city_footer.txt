@@ -1,0 +1,49 @@
+      <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Can I use your winter storm management service even after snow has already covered my property?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, you can. Even if snow or ice has already formed on your property, our team can step in. We'll clear the buildup and treat the area to help prevent further snow and ice from sticking during future storms.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What does your snow and ice treatment involve after clearing my property?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">After we remove the snow and ice, we apply eco-friendly de-icing agents and anti-icing treatments that help stop new buildup from forming. This keeps your walkways, driveways, and entrances safer and easier to maintain throughout the winter.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is it possible for you to plow only my driveway and not the whole property? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We certainly can! We'll concentrate on shoveling your driveway and ignore the rest of your property if that's all you need done. Because our service is adaptable, you can tailor it to your specific needs, whether it clearing the entire property or only the driveway or walkways.</p>
+                <h4 class="template4 palooma" style="font-size:large;">When working in the snow, what precautions does your crew take to keep from freezing?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our group arrives ready for the cold. To be warm and dry, we prepare with thermal layers, waterproof boots and gloves, and insulated apparel. In order to prevent extended exposure, we also operate in shifts, take frequent warm-ups, and have heated equipment ready for use in the event of severe weather.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your services flexible?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely! Our services are flexible, you get to choose what you want us to handle.Whether it's just plowing your property or a full service including plowing and hauling.</p>
+                <div class="callalooma mx-auto"><a href="tel:877-842-7647">Click Here To Call Us (877) 842-7647</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+    
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
